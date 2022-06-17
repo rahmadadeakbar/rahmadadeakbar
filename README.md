@@ -30,6 +30,6 @@
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
 [![Twitter: Rahmad Ade Akbar](https://img.shields.io/twitter/follow/rahmadadeakbar?style=social)](https://twitter.com/rahmadadeakbar)
-[![Linkedin: rahmadadeakbar](https://img.shields.io/badge/-savanihd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahmad-ade-akbar-28006b141/)](https://www.linkedin.com/in/rahmad-ade-akbar-28006b141/)
+[![Linkedin: rahmadadeakbar](https://img.shields.io/badge/-rahmadadeakbar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahmad-ade-akbar-28006b141/)](https://www.linkedin.com/in/rahmad-ade-akbar-28006b141/)
 [![GitHub rahmadadeakbar](https://img.shields.io/github/followers/rahmadadeakbar?label=follow&style=social)](https://github.com/rahmadadeakbar)
-[![website](https://img.shields.io/badge/Blog-itsolutionstuff.com-2648ff?style=flat-square&logo=google-chrome)](https://www.akbar19inc.com)
+[![website](https://img.shields.io/badge/Blog-akbar19inc.com-2648ff?style=flat-square&logo=google-chrome)](https://www.akbar19inc.com)
