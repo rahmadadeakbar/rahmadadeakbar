@@ -1,6 +1,6 @@
-## I'm [Hardik Savani!](https://www.itsolutionstuff.com) 👋
+## Hello I'm [Rahmad Ade Akbar](https://www.akbar19inc.com) 👋
 
-<a href="https://twitter.com/HardikSavani19">
+<a href="https://twitter.com/rahmadadeakbar">
   <img align="left" alt="Hardik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/savanihd">
