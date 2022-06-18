@@ -27,7 +27,7 @@
 <!-- - 💬 Ask me about Laravel or any tech related stuff. -->
 - 📫 How to reach me: [Twitter - @rahmadadeakbar](https://twitter.com/rahmadadeakbar)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
+- ⚡ Fun fact: I spend almost 12 hours to developing to 5 Days of Week.
 
 [![Twitter: Rahmad Ade Akbar](https://img.shields.io/twitter/follow/rahmadadeakbar?style=social)](https://twitter.com/rahmadadeakbar)
 [![Linkedin: rahmadadeakbar](https://img.shields.io/badge/-rahmadadeakbar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahmad-ade-akbar-28006b141/)](https://www.linkedin.com/in/rahmad-ade-akbar-28006b141/)
