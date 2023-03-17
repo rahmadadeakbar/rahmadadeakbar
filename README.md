@@ -3,16 +3,16 @@
 <a href="https://twitter.com/rahmadadeakbar">
   <img align="left" alt="Ade's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rahmad-ade-akbar-28006b141/">
+<a href="https://www.linkedin.com/in/rahmadadeakbar/">
   <img align="left" alt="Ade's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/rahmadadeakbar">
   <img align="left" alt="Ade's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://web.facebook.com/rahmadade.akbar/">
+<a href="https://web.facebook.com/rahmadadeakbar/">
   <img align="left" alt="Ade's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/c/RahmadAdeAkbar">
+<a href="https://www.youtube.com/c/rahmadadeakbar">
   <img align="left" alt="Ade's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br/>
