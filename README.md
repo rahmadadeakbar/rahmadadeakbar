@@ -22,7 +22,7 @@
 - 🔭 I'm currently pursuing a master's degree
 - 🚀 Sometimes i develop application using laravel, codeigniter, django and ReactJS framework
 - 🌱 I’m currently learning [React Js] with Typescript language (https://reactjs.org)
-- 🌱 I’m currently learning [Data Mining](https://www.kaggle.com/rahmadadeakbar)
+- 🌱 I’m currently learning [Machine Learning](https://www.kaggle.com/rahmadadeakbar)
 <!-- - 👯 I’m looking to collaborate on [Blog](https://www.itsolutionstuff.com) -->
 <!-- - 💬 Ask me about Laravel or any tech related stuff. -->
 - 📫 How to reach me: [Twitter - @rahmadadeakbar](https://twitter.com/rahmadadeakbar)
