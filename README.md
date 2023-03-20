@@ -20,8 +20,8 @@
 
 - 🔭 Owner of [Akbar19inc Technomedia](http://akbar19inc.com)
 - 🔭 I'm currently pursuing a master's degree
-- 🚀 Sometimes i develop application using laravel, codeigniter, django and ReactJS framework
-- 🌱 I’m currently learning Typescript Programming Language with [React Js](https://reactjs.org)
+- 🚀 Sometimes i develop application using laravel, codeigniter, django and NodeJS
+- 🌱 I’m currently learning Typescript Programming Language with [Node Js](https://nodejs.org/en)
 - 🌱 I’m currently learning [Machine Learning](https://www.kaggle.com/rahmadadeakbar)
 <!-- - 👯 I’m looking to collaborate on [Blog](https://www.itsolutionstuff.com) -->
 <!-- - 💬 Ask me about Laravel or any tech related stuff. -->
