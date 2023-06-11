@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/c/rahmadadeakbar">
   <img align="left" alt="Ade's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.instagram.com/c/rhmdadeakbar">
+<a href="https://www.instagram.com/rhmdadeakbar">
   <img align="left" alt="Ade's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
