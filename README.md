@@ -1,4 +1,4 @@
-## Hello I'm [Rahmad Ade Akbar](https://www.akbar19inc.com) 👋
+## Hello I'm [Rahmad Ade Akbar](https://raatechnomedia.com) 👋
 
 <a href="https://twitter.com/rahmadadeakbar">
   <img align="left" alt="Ade's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,15 +15,18 @@
 <a href="https://www.youtube.com/c/rahmadadeakbar">
   <img align="left" alt="Ade's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<a href="https://www.instagram.com/c/rhmdadeakbar">
+  <img align="left" alt="Ade's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <br/>
 <br/>
 
-- 🔭 Owner of [Akbar19inc Technomedia](http://akbar19inc.com)
+- 🔭 Owner of [RAA Technomedia](http://raatechnomedia.com)
 - 🔭 I'm currently pursuing a master's degree
 - 🚀 Sometimes i develop application using laravel, codeigniter, django and NodeJS
 - 🌱 I’m currently learning Typescript Programming Language with [Node Js](https://nodejs.org/en)
 - 🌱 I’m currently learning [Machine Learning](https://www.kaggle.com/rahmadadeakbar)
-<!-- - 👯 I’m looking to collaborate on [Blog](https://www.itsolutionstuff.com) -->
+<!-- - 👯 I’m looking to collaborate on [Blog](https://raatechnomedia.com) -->
 <!-- - 💬 Ask me about Laravel or any tech related stuff. -->
 - 📫 How to reach me: [Twitter - @rahmadadeakbar](https://twitter.com/rahmadadeakbar)
 - 😄 Pronouns: He/His
