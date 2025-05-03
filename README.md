@@ -21,8 +21,7 @@
 <br/>
 <br/>
 
-- 🔭 Owner & Founder of [RAA Technomedia](http://raatechnomedia.com)
-- 🔭 I'm currently pursuing a master's degree
+
 - 🚀 Sometimes i develop application using laravel, codeigniter, django and NodeJS
 - 🌱 I’m currently learning Typescript Programming Language with [Node Js](https://nodejs.org/en)
 - 🌱 I’m currently learning [Machine Learning](https://www.kaggle.com/rahmadadeakbar)
