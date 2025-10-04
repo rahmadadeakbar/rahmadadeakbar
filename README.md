@@ -21,6 +21,10 @@
 <br/>
 <br/>
 
+🧠 Currently Exploring
+🧩 Building scalable web apps with Laravel + React
+🤖 Experimenting with AI and Machine Learning
+🧑‍🏫 Sharing insights via raatechnomedia.com
 
 - 🚀 Sometimes i develop application using laravel, codeigniter, django and NodeJS
 - 🌱 I’m currently learning Typescript Programming Language with [Node Js](https://nodejs.org/en)
@@ -28,11 +32,11 @@
 <!-- - 👯 I’m looking to collaborate on [Blog](https://raatechnomedia.com) -->
 <!-- - 💬 Ask me about Laravel or any tech related stuff. -->
 - 📫 How to reach me: [Twitter - @rahmadadeakbar](https://twitter.com/rahmadadeakbar)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours to developing to 5 Days of Week.
 
 [![Twitter: Rahmad Ade Akbar](https://img.shields.io/twitter/follow/rahmadadeakbar?style=social)](https://twitter.com/rahmadadeakbar)
 [![Linkedin: rahmadadeakbar](https://img.shields.io/badge/-rahmadadeakbar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahmad-ade-akbar-28006b141/)](https://www.linkedin.com/in/rahmad-ade-akbar-28006b141/)
 [![GitHub rahmadadeakbar](https://img.shields.io/github/followers/rahmadadeakbar?label=follow&style=social)](https://github.com/rahmadadeakbar)
 [![website](https://img.shields.io/badge/Blog-raatechnomedia.com-00747a?color=19726a&logo=google-chrome&logoColor=white)](https://raatechnomedia.com)
+
 
