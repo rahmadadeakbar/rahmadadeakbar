@@ -1,4 +1,4 @@
-## Hello I'm [Rahmad Ade Akbar](https://raatechnomedia.com) 👋
+## Hey there, I'm [Rahmad Ade Akbar](https://raatechnomedia.com) 👋
 
 <a href="https://twitter.com/rahmadadeakbar">
   <img align="left" alt="Ade's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -35,3 +35,4 @@
 [![Linkedin: rahmadadeakbar](https://img.shields.io/badge/-rahmadadeakbar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahmad-ade-akbar-28006b141/)](https://www.linkedin.com/in/rahmad-ade-akbar-28006b141/)
 [![GitHub rahmadadeakbar](https://img.shields.io/github/followers/rahmadadeakbar?label=follow&style=social)](https://github.com/rahmadadeakbar)
 [![website](https://img.shields.io/badge/Blog-raatechnomedia.com-00747a?color=19726a&logo=google-chrome&logoColor=white)](https://raatechnomedia.com)
+
