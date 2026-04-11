@@ -160,10 +160,3 @@ fun_fact: I spend almost 12 hours developing, 5 days a week ⚡
 </div>
 
 ---
-
-<!-- FOOTER -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00d2ff&height=120&section=footer" />
-
-</div>
