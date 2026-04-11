@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00d2ff&height=220&section=header&text=Rahmad%20Ade%20Akbar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" />
 
 <!-- TYPING SVG -->
 <a href="https://raatechnomedia.com">
@@ -157,79 +156,6 @@ fun_fact: I spend almost 12 hours developing, 5 days a week ⚡
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahmadadeakbar/rahmadadeakbar/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rahmadadeakbar/rahmadadeakbar/output/github-snake.svg" />
 </picture>
-
-</div>
-
----
-
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/rahmadadeakbar/linkme">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=linkme&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/property-app">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=property-app&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/typescript-with-react-app">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=typescript-with-react-app&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/mernstack-image-mysql">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=mernstack-image-mysql&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/News-App-Laravel">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=News-App-Laravel&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/menu-api">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=menu-api&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
-<details>
-<summary>📂 More Projects</summary>
-
-<div align="center">
-
-<a href="https://github.com/rahmadadeakbar/Aplikasi-Portal-Berita-Codeigniter">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=Aplikasi-Portal-Berita-Codeigniter&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/todo-list-with-react">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=todo-list-with-react&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/notes-app-back-end">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=notes-app-back-end&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/Project-Django">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=Project-Django&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/Svelte-Project">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=Svelte-Project&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/Aplikasi-Data-Kamar-RS">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=Aplikasi-Data-Kamar-RS&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/laravelapp">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=laravelapp&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/rahmadadeakbar/django-app">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahmadadeakbar&repo=django-app&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
-</details>
-
----
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahmadadeakbar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
