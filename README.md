@@ -5,8 +5,12 @@
 
 <!-- TYPING SVG -->
 <a href="https://raatechnomedia.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%8F%86+Arctic+Code+Vault+Contributor;%F0%9F%87%AE%F0%9F%87%A9+Based+in+Indonesia;%F0%9F%92%BB+Coding+12+hours+a+day%2C+5+days+a+week;%E2%98%95+Working+from+home+and+coffee+shop" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there%2C+I'm+Rahmad+Ade+Akbar+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </a>
+
+<p>
+  <em>"Some code can change the world"</em>
+</p>
 
 <br/>
 
@@ -67,7 +71,7 @@ fun_fact: I spend almost 12 hours developing, 5 days a week ⚡
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### 💬 Languages
 <p>
@@ -132,13 +136,6 @@ fun_fact: I spend almost 12 hours developing, 5 days a week ⚡
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/rahmadadeakbar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahmadadeakbar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/rahmadadeakbar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmadadeakbar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10" alt="Top Languages" />
-</a>
 
 <br/>
 
