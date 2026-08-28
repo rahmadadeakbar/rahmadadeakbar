@@ -136,11 +136,6 @@ motto:     "Some code can change the world"
 <!-- Profile Details Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahmadadeakbar&theme=tokyonight" alt="Profile Details" />
 
-<br/>
-
-<!-- Stats + Top Languages (side by side) -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahmadadeakbar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&bg_color=1a1b27" alt="GitHub Stats" />&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmadadeakbar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&bg_color=1a1b27" alt="Top Languages" />
 
 <br/><br/>
 
