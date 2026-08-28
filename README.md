@@ -1,8 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  HEADER                                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:4fc3f7,100:00bcd4&height=250&section=header&text=Rahmad%20Ade%20Akbar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast%20%E2%80%A2%20Indonesia&descSize=16&descColor=e0f7fa&descAlignY=52" alt="Header" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  INTRO SECTION                                                     -->
@@ -19,7 +14,7 @@
 <!-- SOCIAL BADGES - ROW 1: Professional Networks -->
 <p>
   <a href="https://www.linkedin.com/in/rahmadadeakbar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://twitter.com/rahmadadeakbar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>&nbsp;
+  <a href="https://twitter.com/rahmadadeakbar"><img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>&nbsp;
   <a href="https://www.youtube.com/@RahmadAdeAkbar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
   <a href="https://www.instagram.com/rhmdadeakbar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="https://web.facebook.com/rahmadadeakbar/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -33,7 +28,7 @@
   <a href="mailto:rahmadadeakbar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rahmadadeakbar&color=1a73e8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rahmadadeakbar&color=2c5364&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -127,6 +122,10 @@ motto:     "Some code can change the world"
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  TROPHIES                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  GITHUB ANALYTICS                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -135,39 +134,29 @@ motto:     "Some code can change the world"
 <div align="center">
 
 <!-- Profile Details Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahmadadeakbar&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahmadadeakbar&theme=tokyonight" alt="Profile Details" />
 
 <br/>
 
 <!-- Stats + Top Languages (side by side) -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahmadadeakbar&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmadadeakbar&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahmadadeakbar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&bg_color=1a1b27" alt="GitHub Stats" />&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmadadeakbar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&bg_color=1a1b27" alt="Top Languages" />
 
 <br/><br/>
 
 <!-- Language by Repo + Language by Commit (side by side) -->
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahmadadeakbar&theme=github_dark" alt="Repos Per Language" />&nbsp;&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahmadadeakbar&theme=github_dark" alt="Most Commit Language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahmadadeakbar&theme=tokyonight" alt="Repos Per Language" />&nbsp;&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahmadadeakbar&theme=tokyonight" alt="Most Commit Language" />
 
 <br/><br/>
 
 <!-- Stats Summary + Productive Time (side by side) -->
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahmadadeakbar&theme=github_dark" alt="Stats Summary" />&nbsp;&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahmadadeakbar&theme=github_dark&utcOffset=7" alt="Productive Time" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahmadadeakbar&theme=tokyonight" alt="Stats Summary" />&nbsp;&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahmadadeakbar&theme=tokyonight&utcOffset=7" alt="Productive Time" />
 
 <br/><br/>
 
-<!-- Streak Stats - using markdown syntax for better GitHub compatibility -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=rahmadadeakbar&theme=github-dark-blue&hide_border=true&border_radius=10)
 
-<br/>
-
-<!-- Activity Graph - using Ashutosh00710's instance which is more stable -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahmadadeakbar&theme=github-compact&hide_border=true&area=true&radius=10)
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  CONTRIBUTION SNAKE                                                -->
@@ -207,11 +196,11 @@ motto:     "Some code can change the world"
 
 <br/>
 
-<a href="mailto:rahmadadeakbar@gmail.com"><img src="https://img.shields.io/badge/Email_Me-1a73e8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-<a href="https://raatechnomedia.com"><img src="https://img.shields.io/badge/Visit_Portfolio-00bcd4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>&nbsp;
+<a href="mailto:rahmadadeakbar@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2c5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://raatechnomedia.com"><img src="https://img.shields.io/badge/Visit_Portfolio-203a43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/rahmadadeakbar/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-</div
+</div>
 
 <br/>
 
@@ -219,4 +208,4 @@ motto:     "Some code can change the world"
 <!--  FOOTER                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:4fc3f7,100:00bcd4&height=150&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer" alt="Footer" />
